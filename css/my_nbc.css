@@ -1,0 +1,10 @@
+*{
+	margin: 0px;
+}
+.background{
+	background: url(bg2.jpg) no-repeat;
+	height: 500px;
+}
+.center{
+	text-align: center;
+}
